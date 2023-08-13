@@ -1,5 +1,7 @@
-# Sequential-Text-based-Knowledge-Update-with-Self-Supervised-Learning-for-Generative-Language-Models
+# Sequential Text-based Knowledge Update with Self-Supervised Learning for Generative Language Models
 This work proposes a new natural language processing (NLP) task to tackle the issue of multi-round, sequential text-based knowledge update. A dataset was also created for evaluation and results showed the effectiveness of our methodology. 
+
+&nbsp;
 
 ## Setup
 
