@@ -1,4 +1,5 @@
 # Sequential-Text-based-Knowledge-Update-with-Self-Supervised-Learning-for-Generative-Language-Models
+This work proposes a new natural language processing (NLP) task to tackle the issue of multi-round, sequential text-based knowledge update. A dataset was also created for evaluation and results showed the effectiveness of our methodology. 
 
 ## Setup
 
@@ -18,3 +19,9 @@ pip install -r requirements.txt
 You are all set! 🎉
 
 &nbsp;
+
+## Finetune the model
+
+```bash
+python sfinetune/fine_tuning_t5_model.py
+```
