@@ -25,5 +25,5 @@ You are all set! 🎉
 ## Finetune the model
 
 ```bash
-python sfinetune/fine_tuning_t5_model.py
+python finetune/fine_tuning_t5_model.py
 ```
