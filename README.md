@@ -19,8 +19,6 @@ pip install -r requirements.txt
 
 You are all set! 🎉
 
-&nbsp;
-
 ## Finetune the model
 
 ```bash
