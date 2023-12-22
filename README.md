@@ -30,3 +30,17 @@ You are all set! 🎉
 ```bash
 python Finetune/fine_tuning_t5_model.py
 ```
+
+## Citation
+
+```bash
+@inproceedings{10.1145/3583780.3615188,
+  title = {Sequential Text-Based Knowledge Update with Self-Supervised Learning for Generative Language Models},
+  author = {Sung, Hao-Ru and Tang, Ying-Jhe and Cheng, Yu-Chung and Chen, Pai-Lin and Li, Tsai-Yen and Huang, Hen-Hsen},
+  publisher = {Association for Computing Machinery},
+  booktitle = {Proceedings of the 32nd ACM International Conference on Information and Knowledge Management},
+  pages = {4305–4309},
+  year = {2023}
+}
+```
+
